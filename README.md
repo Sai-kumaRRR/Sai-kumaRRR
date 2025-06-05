@@ -8,6 +8,15 @@
 - Ask me about selenium , Python , Java , API Testing , Playwright , Web & API Automation , Coding Fundamentals.
 - Strong command about coding concepts.
 
+- 🔍 I’m a passionate QA Tester with hands-on experience in Manual Testing, Automation with Selenium & Python, and API testing using Postman. My goal is to ensure quality at every step of software development.
+
+✅ Skilled in writing test cases, identifying bugs, and creating test plans.
+🧪 Familiar with tools like JIRA, Git, Selenium, Postman.
+💡 Learning DevOps tools for CI/CD integration as part of quality strategy.
+
+Let’s connect and talk about Quality Engineering!
+
+
 
 Sai-kumaRRR/Sai-kumaRRR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
